@@ -1,0 +1,6 @@
+ServerAddress = "localhost"
+ServerPort = 8080
+OutputPath = "./"
+ConnectionNum = 3
+MessageNumPerCon = 3
+RateLimit = 1000
